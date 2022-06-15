@@ -1,0 +1,2 @@
+> git push origin main:main
+fatal: unable to access 'https://github.com/Som-ihechi/ZURI-NEW.git/': Could not resolve host: github.com
